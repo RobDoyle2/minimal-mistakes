@@ -10,11 +10,11 @@ gallery:
   - url: /assets/images/logo/aig_core_logo.jpg
     image_path: /assets/images/logo/aig_core_logo.jpg
     alt: "AIG"
-    title: "Image 1 title caption"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    title: "AIG title"
+  - url: /assets/images/logo/Allied_Irish_Banks_logo.svg.png
+    image_path: /assets/images/logo/Allied_Irish_Banks_logo.svg.png
+    alt: "AIB"
+    title: "AIB Title"
   - url: /assets/images/unsplash-gallery-image-3.jpg
     image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
@@ -58,7 +58,7 @@ gallery:
 gallery2:
   - url: /assets/images/logo/aig_core_logo.jpg
     image_path: /assets/images/logo/aig_core_logo.jpg
-    alt: "Black and grays with a hint of green"
+    alt: "AIG"
   - url: https://flic.kr/p/8a738X
     image_path: https://farm5.staticflickr.com/4029/4697523701_249e93ba23_q.jpg
     alt: "Made for open text placement"
