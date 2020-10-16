@@ -12,10 +12,7 @@ tags:
   - standard
   - gdpr
   - data
----
-
-## Nuloha Clients
-
+  
 gallery:
   - url: /assets/images/logo/aig_core_logo.jpg
     image_path: /assets/images/logo/aig_core_logo.jpg
@@ -29,5 +26,13 @@ gallery:
     image_path: /assets/images/logo/BAT_logo.jpg
     alt: "BAT"
     title: "British American Tobacco, Manufacturing"
+      
+---
+
+## Nuloha Clients
+{% include gallery caption="This is our client gallery with **Markdown support**." %}
+
+
+
  
 
