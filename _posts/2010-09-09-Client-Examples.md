@@ -19,7 +19,7 @@ gallery:
     image_path: /assets/images/logo/BAT_logo.jpg
     alt: "British American Tobacco"
     title: "British American Tobacco, Manufacturing"    
-   - url: /assets/images/logo/BOI-logo.jpg
+  - url: /assets/images/logo/BOI-logo.jpg
     image_path: /assets/images/logo/BOI-logo.jpg
     alt: "BOI"
     title: "Bank of Ireland, Banking" 
@@ -27,11 +27,11 @@ gallery:
     image_path: /assets/images/logo/DWP_logo.jpg
     alt: "DWP"
     title: "Department of Welfare and Pensions, UK Government"
-   - url: /assets/images/logo/Microsoft_logo.webp
+  - url: /assets/images/logo/Microsoft_logo.webp
     image_path: /assets/images/logo/Microsoft_logo.webp
     alt: "Microsoft"
     title: "Microsoft, IT"    
-   - url: /assets/images/logo/SSE_logo.png
+  - url: /assets/images/logo/SSE_logo.png
     image_path: /assets/images/logo/SSE_logo.png
     alt: "SSE"
     title: "SSE Electricity, Manufacturing" 
@@ -47,13 +47,12 @@ gallery:
     image_path: /assets/images/logo/fujitsu-logo.jpg
     alt: "Fujitsu"
     title: "Fujitsu, IT Services" 
-   - url: /assets/images/logo/sdl_logo.png
+  - url: /assets/images/logo/sdl_logo.png
     image_path: /assets/images/logo/sdl_logo.png
     alt: "SDL"
     title: "SDL, Software" 
 
 ---
-
 Click on the image for more details
 
 {% include gallery class="full" caption="Client Examples" %}
