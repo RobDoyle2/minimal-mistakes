@@ -7,22 +7,14 @@ tags:
   - Post Formats
   - tiled
 gallery:
-  - url: /assets/images/logo/aig_core_logo.jpg
-    image_path: /assets/images/logo/aig_core_logo.jpg
-    alt: "AIG"
-    title: "AIG title"
-  - url: /assets/images/logo/Allied_Irish_Banks_logo.svg.png
-    image_path: /assets/images/logo/Allied_Irish_Banks_logo.svg.png
-    alt: "AIB"
-    title: "AIB Title"
-  - url: /assets/images/logo/BAT_logo.jpg
-    image_path: /assets/images/logo/BAT_logo.jpg
-    alt: "British American Tobacco"
-    title: "British American Tobacco, Manufacturing"    
   - url: /assets/images/logo/BOI-logo.jpg
     image_path: /assets/images/logo/BOI-logo.jpg
     alt: "BOI"
     title: "Bank of Ireland, Banking" 
+  - url: /assets/images/logo/Allied_Irish_Banks_logo.svg.png
+    image_path: /assets/images/logo/Allied_Irish_Banks_logo.svg.png
+    alt: "AIB"
+    title: "AIB Title"  
   - url: /assets/images/logo/DWP_logo.jpg
     image_path: /assets/images/logo/DWP_logo.jpg
     alt: "DWP"
@@ -51,11 +43,19 @@ gallery:
     image_path: /assets/images/logo/sdl_logo.png
     alt: "SDL"
     title: "SDL, Software" 
+  - url: /assets/images/logo/aig_core_logo.jpg
+    image_path: /assets/images/logo/aig_core_logo.jpg
+    alt: "AIG"
+    title: "AIG title"
+  - url: /assets/images/logo/BAT_logo.jpg
+    image_path: /assets/images/logo/BAT_logo.jpg
+    alt: "British American Tobacco"
+    title: "British American Tobacco, Manufacturing"
 
 ---
-Click on the image for more details
 
-{% include gallery layout=half class="full" caption="Client Examples" %}
+
+{% include gallery layout=half class="full" caption="Client Examples, Click on image for more details" %}
 
 ...
 
