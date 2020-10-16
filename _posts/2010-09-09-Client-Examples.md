@@ -55,7 +55,7 @@ gallery:
 ---
 Click on the image for more details
 
-{% include gallery class="full" caption="Client Examples" %}
+{% include gallery layout=half class="full" caption="Client Examples" %}
 
 ...
 
