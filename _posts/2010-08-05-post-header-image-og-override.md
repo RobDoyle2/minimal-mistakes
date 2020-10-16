@@ -1,7 +1,7 @@
 ---
 title: "Post: Header Image with OpenGraph Override"
 header:
-  image: /assets/images/Header_stones.jpg
+  image: /assets/images/Ballymoney_sunrise_long.jpg
   og_image: /assets/images/Ballymoney_sunrise_long.jpg
 categories:
   - Layout
