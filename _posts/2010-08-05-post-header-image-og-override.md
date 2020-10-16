@@ -1,8 +1,8 @@
 ---
 title: "Post: Header Image with OpenGraph Override"
 header:
-  image: /assets/images/unsplash-image-5.jpg
-  og_image: /assets/images/unsplash-image-5.jpg
+  image: /assets/images/Header_stones.jpg
+  og_image: /assets/images/Header_stones.jpg
 categories:
   - Layout
   - Uncategorized
