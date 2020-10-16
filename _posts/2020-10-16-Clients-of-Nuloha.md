@@ -1,7 +1,20 @@
 ---
 published: false
 ---
-## Satisfied Nuloha Clients
+---
+title: "Nuloha Clients"
+excerpt_separator: "<!--more-->"
+categories:
+  - Post Formats
+tags:
+  - Post Formats
+  - readability
+  - standard
+  - gdpr
+  - data
+---
+
+## Nuloha Clients
 
 gallery:
   - url: /assets/images/logo/aig_core_logo.jpg
@@ -16,5 +29,5 @@ gallery:
     image_path: /assets/images/logo/BAT_logo.jpg
     alt: "BAT"
     title: "British American Tobacco, Manufacturing"
-    
+ 
 
