@@ -9,7 +9,7 @@ tags:
 gallery:
   - url: /assets/images/logo/aig_core_logo.jpg
     image_path: /assets/images/logo/aig_core_logo.jpg
-    alt: "placeholder image 1"
+    alt: "AIG"
     title: "Image 1 title caption"
   - url: /assets/images/unsplash-gallery-image-2.jpg
     image_path: /assets/images/unsplash-gallery-image-2-th.jpg
