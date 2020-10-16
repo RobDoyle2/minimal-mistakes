@@ -59,5 +59,4 @@ Click on the image for more details
 
 ...
 
-Here comes another gallery, this time set the `id` to match 2nd gallery hash in YAML Front Matter.
 
