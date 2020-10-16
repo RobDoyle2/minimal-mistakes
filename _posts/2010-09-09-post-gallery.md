@@ -7,8 +7,8 @@ tags:
   - Post Formats
   - tiled
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+  - url: /assets/images/logo/aig_core_logo.jpg
+    image_path: /assets/images/logo/aig_core_logo.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: /assets/images/unsplash-gallery-image-2.jpg
